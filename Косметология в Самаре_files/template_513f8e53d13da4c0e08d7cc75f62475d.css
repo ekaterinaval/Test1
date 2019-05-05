@@ -9,7 +9,7 @@
  * Author URL: https://probootstrap.com
  * License: Released for free under the Creative Commons Attribution 3.0 license (probootstrap.com/license)
  */
-@font-face {
+ @font-face {
   font-family: 'icomoon';
   src: url("/local/templates/yanacosmetology/./fonts/icomoon/icomoon.eot?1z9v6x");
   src: url("/local/templates/yanacosmetology/./fonts/icomoon/icomoon.eot?1z9v6x#iefix") format("embedded-opentype"), url("/local/templates/yanacosmetology/./fonts/icomoon/icomoon.ttf?1z9v6x") format("truetype"), url("/local/templates/yanacosmetology/./fonts/icomoon/icomoon.woff?1z9v6x") format("woff"), url("/local/templates/yanacosmetology/./fonts/icomoon/icomoon.svg?1z9v6x#icomoon") format("svg");
@@ -770,6 +770,16 @@ section[data-section="menu"] {
   letter-spacing: .2em;
   text-transform: uppercase;
   color: #ffffff;
+}
+
+.probootstrap-footer h4 {
+  font-size: 24px;
+  /* letter-spacing: .2em; */
+  color: #ffffff;
+}
+
+.probootstrap-footer h4::first-letter {
+  text-transform: uppercase;
 }
 
 .probootstrap-footer .probootstrap-footer-widget {
