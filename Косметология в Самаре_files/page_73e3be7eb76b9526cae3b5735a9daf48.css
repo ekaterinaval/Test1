@@ -1,0 +1,49 @@
+
+
+/* Start:/local/templates/yanacosmetology/components/bitrix/news.list/flexslider/style.css?1519448391458*/
+.above {
+	position: relative;
+	z-index: 100;
+}
+.probootstrap-heading h1.secondary-heading {
+	text-transform: none;
+    line-height: 1;
+}
+
+.probootstrap-heading h1 span.primary-heading {
+	color: #ffffff !important;
+	/* color: #353842 !important; */
+	line-height: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .probootstrap-heading h1.secondary-heading {
+    font-size: 33px;
+  }
+	.flexslider .slides > li {
+	  background-position-x: center !important;
+	}
+}
+
+
+/* End */
+
+
+/* Start:/local/templates/yanacosmetology/components/bitrix/news.list/specialities/style.css?151944579866*/
+.probootstrap-cell-retro {
+    /* background-color: white; */
+}
+
+
+
+/* End */
+
+
+/* Start:/local/templates/yanacosmetology/components/bitrix/main.feedback/feedback.recaptcha/style.css?152355448735*/
+.mf-ok-text {
+    color: #60c759;
+}
+/* End */
+/* /local/templates/yanacosmetology/components/bitrix/news.list/flexslider/style.css?1519448391458 */
+/* /local/templates/yanacosmetology/components/bitrix/news.list/specialities/style.css?151944579866 */
+/* /local/templates/yanacosmetology/components/bitrix/main.feedback/feedback.recaptcha/style.css?152355448735 */
